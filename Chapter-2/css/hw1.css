@@ -1,10 +1,9 @@
 img{
     width: 400px ;
-    height: 250px;
+    height: 200px;
     float: middle;
 		padding: 1rem;
 		margin: 0 0 0.5rem 1rem;
 		border-radius: 3px;
-		background-color: #659be7;
 		border: 5px solid #0e0e0e;
 }
