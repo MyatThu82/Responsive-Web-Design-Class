@@ -1,18 +1,35 @@
 .main-container{
     display: flex;
+    justify-content: center;
     height: 300px;
     width: 100;
     background-color: bisque;
     border: 3px solid black;
+    margin-top: 100px;
 }
 
 .article-container{
-    border: 3px solid green;
-width: 50%;
+    display: flex;
+    align-items: justify;
+    width: 40%;
+    font-size: 25px;
+    margin: 15px;
 }
 
 .image-container{
-    border: 3px solid red;
-height: 200px;
-width: 300;
+    display: flex;
+    justify-content:space-around;
+    width: 40%;
+}
+
+.image-container > img{
+    height: 90%;
+    width: 450px;
+    margin: 13px;
+}
+
+img{
+    border: 1px solid gray;
+    border-radius: 20px;
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
 }
