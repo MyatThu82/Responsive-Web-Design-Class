@@ -1,0 +1,55 @@
+.adidas-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    margin: -10px;
+    width: full;
+    background-color: rgb(255, 255, 255);
+}
+
+.adidas-logo > img{
+    height: 50%;
+    width: 70px;
+    margin-left: 70px;
+    
+}
+
+.adidas-categories > a{
+    margin: 10px;
+    font-weight: 700;
+}
+
+.adidas-search{
+    display: flex;
+}
+
+.search-container{
+    background-color: rgb(231,230,230);
+    border: 1px solid gray;
+    border-radius: 20px;
+    padding: 5px;
+    margin-right: 10px;
+}
+
+.search-container >i{
+    font-size: 20px;
+    margin: 5px;
+}
+
+.search-container > input{
+    border: none;
+    background-color: rgb(231,230,230);
+    padding: 5px;
+}
+
+.icon-container{
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+}
+
+.icon-container >i{
+    font-size: 20px;
+    margin: 5px;
+}
