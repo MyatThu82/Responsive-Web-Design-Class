@@ -1,23 +1,21 @@
 .head{
     font-style: oblique;
-    background-color: rgb(246, 229, 204);
+    background-color: rgb(247, 243, 237);
     padding-left: 35px;
     padding-top: 5px;
     padding-bottom: 5px;
-   
+    display: block;   
 }
 .fb{
     width: 25px;
     height: 25px;
     padding-left: 90%;
-    
 }
 
 .git{
     width: 25px;
-    height: 25px;
-    padding-left: 1%;
-    
+    height: 25px;   
+    padding-left: 3%; 
 }
 
 .container{
@@ -28,31 +26,47 @@
 .about{
     display: inline-block;
     width: 40%;
-    
+    padding-left: 5px;
     font-style: italic;
+    font-size: 20px;
     
     
 }
 
 .mta{
-    width: 65px;
-    height: 65px;
-    padding-left: 5px;
+    
+    width: 85px;
+    height: 85px;
+    border-style: double;
+    margin-left: 15px;
+    
+}
+.pl{
+    
+    margin-left: 15px;
 }
 
 .image{
     display: inline-block;
-    width: 40%;
     
+    padding-left: 360px;
+    padding-right: 5px;
+    padding-bottom: 40px;
 }
 
 .mypic{
     width: 300px;
     height: 500px;
+    border-style: groove;
+    border-width: 10px;
 }
 
 .footer{
-    background-color: darkgray;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(232, 232, 232);
     border: 20px;
     padding: 15px;
+    margin-left: 100px;
+    margin-right: 100px;
 }
