@@ -1,0 +1,21 @@
+*{
+    background-color: rgb(121, 90, 15);
+}
+
+.coffee-container{
+    width: 90vw;
+    height: 90vh;
+
+    display: flex;
+    justify-content: center;
+
+    border: 2px solid wheat;
+    border-radius: 8px;
+    margin: 5px;
+}
+
+.shop-title{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

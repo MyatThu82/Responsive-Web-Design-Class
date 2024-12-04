@@ -4,7 +4,7 @@
 }
 
 body{
-    background-image: url(../Chapter-2/img/bck-5.jpg);
+    background-image: url(../Chapter-2/img/4k-1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -36,7 +36,7 @@ body{
     padding-left: 10px;
     width: 250px;
     height: 30px;
-    font-size: 18px;
+    font-size: 16px;
     margin-top: 40px;
     outline: none;
     color: rgb(68, 65, 65);
@@ -50,30 +50,35 @@ body{
     padding-left: 10px;
     width: 250px;
     height: 30px;
-    font-size: 20px;
+    font-size: 16px;
     margin-top: 40px;
     outline: none;
     color: rgb(68, 65, 65);
+}
+
+.fp{
+    cursor: pointer;
 }
 
 .text button{
     width: 250px;
     height: 44px;
     background-color:antiquewhite;
-    color: rgb(12, 12, 12);
+    color: rgb(39, 38, 38);
     border: none;
     font-size: 24px;
     font-weight: bold;
     border-radius: 25px;
     margin-top: 20px;
     cursor: pointer;
+    
 }
 
 button:hover{
     border: 3px solid rgb(239, 83, 208);
-    color: rgb(72, 38, 239);
+    color: rgb(22, 3, 118);
     font-size: 26px;
-    background-color: antiquewhite;
+    background-color: antiquewhite;    
 }
 
 p{
@@ -81,8 +86,13 @@ p{
     font-size: 20px;
 }
 
+a {
+    text-decoration: none;
+}
+
 p span{
-    color: rgb(30, 7, 244);
+    color: rgb(5, 187, 253);
     font-weight: bold;
     cursor: pointer;
+   
 }
