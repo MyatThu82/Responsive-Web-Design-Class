@@ -1,0 +1,38 @@
+.main-middle{
+    display: flex;
+    height: 100%;
+    width: 80%;
+    margin-left: 130px;
+}
+
+.header{
+    background-color: green;
+    height: 130px;
+    width: 80%;
+    margin-left: 130px;
+}
+
+.Left{
+    background-color: rgb(71, 198,   71);
+    height: 600px;
+    width: 20%;
+}
+
+.Right{
+    background-color: rgb(71, 198 ,  71);
+    height: 600px;
+    width: 10%;
+}
+
+.Middle{
+    background-color: antiquewhite;
+    height: 600px;
+    width: 70%;
+}
+
+.footer{
+    background-color: rgba(22,22,148,0.539);
+    height: 150px;
+    width: 80%;
+    margin-left: 130px;
+}

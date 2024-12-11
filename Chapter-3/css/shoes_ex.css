@@ -78,9 +78,6 @@ body {
     background-color: rgb(138, 138, 140);
   }
 
-
- 
-
 @media screen and (min-width: 800px) {
     .shoes-content{
         display: flex;
