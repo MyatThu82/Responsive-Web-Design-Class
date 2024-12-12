@@ -1,0 +1,16 @@
+.main {
+    background-color: rgb(248, 94, 237);
+    display: flex;
+    height: 200px;
+    width: 400px;
+    align-items: center;
+  }
+
+  .FlexItem {
+    background-color: #2373f4;
+    display: flex;
+    color: white;
+    height: 100px;
+    width: 200px;
+    padding: 10px;
+  }
