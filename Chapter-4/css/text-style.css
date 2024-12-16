@@ -1,0 +1,13 @@
+
+
+@media (min-width: 1000px) {
+    .main {
+      display: flex;
+      flex-wrap: wrap;
+    }
+    .chapter {
+      flex: 0 0 33.33%;
+      
+    }
+    
+  }
